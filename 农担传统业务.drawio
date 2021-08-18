@@ -1,1 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2021-08-18T08:08:44.733Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" version="14.9.0" etag="zass-LdazNDlYSNOFpJ4" type="github"><diagram id="dO2qiLhL7tnFLpFk5E4g">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-08-18T09:38:06.721Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="0XLED9XoQ9pTKtobCpxv" version="14.9.0" type="github">
+  <diagram id="dO2qiLhL7tnFLpFk5E4g" name="Page-1">
+    <mxGraphModel dx="1303" dy="857" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Y-XFu3cOp23zqg_AY3rB-1" value="湖南农担" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="170" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-XFu3cOp23zqg_AY3rB-2" value="银行" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="520" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-XFu3cOp23zqg_AY3rB-3" value="获客" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="175" y="152" width="110" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-XFu3cOp23zqg_AY3rB-4" value="调查评价" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="170" y="235" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-XFu3cOp23zqg_AY3rB-5" value="调查评价" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="530" y="245" width="100" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-XFu3cOp23zqg_AY3rB-6" value="签署借款合同&lt;br style=&quot;font-size: 17px;&quot;&gt;和保证合同" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="520" y="334" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-XFu3cOp23zqg_AY3rB-7" value="核保放款" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="170" y="386" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-XFu3cOp23zqg_AY3rB-8" value="银行放款" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="520" y="464" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-XFu3cOp23zqg_AY3rB-9" value="登记台账" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="170" y="516" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-XFu3cOp23zqg_AY3rB-11" value="客户还款" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="520" y="574" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-XFu3cOp23zqg_AY3rB-12" value="更新台账" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="170" y="626" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
